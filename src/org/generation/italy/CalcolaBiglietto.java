@@ -8,7 +8,7 @@ public class CalcolaBiglietto {
 		// TODO Auto-generated method stubù
 		
 		Scanner scan = new Scanner(System.in);
-		System.out.print("Inserire numeri chilometri viaggio: ");
+		System.out.print("Inserire numero chilometri viaggio: ");
 		double numKm = scan.nextDouble();
 		System.out.print("Quanti anni ha il passeggero: ");
 		int age = scan.nextInt();
